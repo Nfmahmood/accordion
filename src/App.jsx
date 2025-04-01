@@ -1,5 +1,5 @@
 import { useState } from "react";
-import questions from "./questions.jsx";
+import questions from "./Questions";
 import parse from "html-react-parser";
 
 export default function App() {
